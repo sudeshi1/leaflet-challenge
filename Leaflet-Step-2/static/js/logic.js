@@ -10,7 +10,7 @@ d3.json(queryUrl).then(function (data) {
 // Pull in the JSON file
 d3.json("JSON/PB2002_boundaries.json").then(function (data2) {
     tectonicPlates = L.geoJSON(data2.features, {
-        color: "orange"
+        color: "red"
     })
 });
   function createFeatures(earthquakeData) {
