@@ -12,10 +12,10 @@
 
 ### Requirements
 
-1. JavaScript
-2. JSON
-3. CSS
-4. HTML
+1. Scripting: *JavaScript*
+2. File type: *JSON*
+3. Styling: *CSS*
+4. Webpage: *HTML*
 
 ![Coder](/images/2.gif)
 
